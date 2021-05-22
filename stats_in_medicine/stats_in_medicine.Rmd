@@ -1,5 +1,5 @@
 ---
-title: Financial Development and Uptake of Microfinance in Africa.
+title: Financial Development and the Uptake of Microfinance in Africa.
 author:
 - name: Simon Kamau*
   num: a,b
